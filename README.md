@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Anton Kruglikov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data Scientist from Russia 🇷🇺</h3>
+<h3 align="center">Data Scientist from Russia</h3>
 
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Python, machine learning, deep learning
